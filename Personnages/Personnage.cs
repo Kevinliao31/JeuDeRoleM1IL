@@ -1,13 +1,13 @@
-﻿namespace ProjetJeuDeRole_M1IL
+﻿namespace ProjetJeuDeRole_M1IL.Personnages
 {
-    public abstract class Personnage
+    public class Personnage
     {
         #region Propriété publiques
         public string Name { get; set; }
         public int Attack { get; set; }
         public int Defense { get; set; }
         public int Initiative { get; set; }
-        public int Damages {  get; set; }
+        public int Damages { get; set; }
         public int MaximumLife { get; set; }
         public int CurrentLife { get; set; }
         public int TotalAttackNumber { get; set; }
@@ -51,6 +51,11 @@
         {
             Random rnd = new();
             return Attack + rnd.Next(1, 101);
+        }
+
+        public void AfficherStatut()
+        {
+            Console.WriteLine($"{Name} - Vie: {CurrentLife}/{MaximumLife}, Attaques restantes: {CurrentAttackNumber}");
         }
         #endregion
     }

@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\bin\Debug\net8.0\ProjetJeuDeRole_M1IL.exe
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\bin\Debug\net8.0\ProjetJeuDeRole_M1IL.deps.json
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\bin\Debug\net8.0\ProjetJeuDeRole_M1IL.runtimeconfig.json
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\bin\Debug\net8.0\ProjetJeuDeRole_M1IL.dll
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\bin\Debug\net8.0\ProjetJeuDeRole_M1IL.pdb
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\obj\Debug\net8.0\ProjetJeuDeRole_M1IL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\obj\Debug\net8.0\ProjetJeuDeRole_M1IL.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\obj\Debug\net8.0\ProjetJeuDeRole_M1IL.AssemblyInfo.cs
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\obj\Debug\net8.0\ProjetJeuDeRole_M1IL.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\obj\Debug\net8.0\ProjetJeuDeRole_M1IL.sourcelink.json
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\obj\Debug\net8.0\ProjetJeuDeRole_M1IL.dll
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\obj\Debug\net8.0\refint\ProjetJeuDeRole_M1IL.dll
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\obj\Debug\net8.0\ProjetJeuDeRole_M1IL.pdb
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\obj\Debug\net8.0\ProjetJeuDeRole_M1IL.genruntimeconfig.cache
+C:\Users\kevin\source\repos\ProjetJeuDeRole_M1IL\obj\Debug\net8.0\ref\ProjetJeuDeRole_M1IL.dll
